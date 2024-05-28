@@ -25,4 +25,7 @@ add_subdirectory(Barrier)
 
 add_subdirectory(CondVar)
 
+add_subdirectory(Mutex)
+
 add_subdirectory(Semaphore)
+
